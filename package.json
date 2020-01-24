@@ -1,6 +1,6 @@
 {
   "name": "ng-hero-design-system",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "NG Hero Design System Coded, Written & Published By Bootcatch Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).",
   "main": "index.js",
   "scripts": {
