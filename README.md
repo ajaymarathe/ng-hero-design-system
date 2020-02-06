@@ -1,17 +1,21 @@
 # NG Hero Design System
-NG Hero Design System Coded, Written & Published By Bootcatch Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
+NG Hero Design System Coded, Written & Published By Bootcatch, Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
 
 [![NPM](https://img.shields.io/npm/v/ng-hero-design-system.svg)](https://www.npmjs.com/package/ng-hero-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-hero-design-system.svg)](https://www.npmjs.com/package/ng-hero-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
 
+* [Documentation](#documentation)
 * [First-shot](#first-shot)
 * [Quick Start](#quick-start)
 * [Usage](#usage)
 * [About](#about)
 * [Author](#author)
 * [Copyright and License](#copyright-and-license)
+
+## Documentation
+The Documentation for NG-APOLLO DESIGN SYSTEM is hosted on [Bootcatch-blog](http://blog.bootcatch.com/post/angular-components-based-design-system-is-based-on-bootcatch-themes-and-angular).
 
 ## First Shot
 [![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/ng-uikit/ng-hero.png)](http://preview.bootcatch.com/ng-hero-design-system)
